@@ -39,7 +39,11 @@ class PostFinanceCheckoutVersionHelper {
 			'PostFinanceCheckoutFrontendPdf' => array(
 				'file' => 'PostFinanceCheckoutFrontendPdf.ocmod.xml',
 				'default_status' => 1 
-			) 
+			),
+			'PostFinanceCheckoutTransactionView' => array(
+				'file' => 'PostFinanceCheckoutTransactionView.ocmod.xml',
+				'default_status' => 1
+			)
 		);
 	}
 
