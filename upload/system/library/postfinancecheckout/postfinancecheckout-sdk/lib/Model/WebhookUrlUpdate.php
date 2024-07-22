@@ -328,7 +328,3 @@ class WebhookUrlUpdate extends AbstractWebhookUrlUpdate
 }
 
 
-
-}
-
-

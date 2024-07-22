@@ -303,7 +303,3 @@ class AbstractTransactionCommentActive implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

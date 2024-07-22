@@ -303,7 +303,3 @@ class AbstractRefundCommentActive implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

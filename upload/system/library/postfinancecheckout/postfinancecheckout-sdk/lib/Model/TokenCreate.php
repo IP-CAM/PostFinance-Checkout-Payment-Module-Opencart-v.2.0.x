@@ -340,7 +340,3 @@ class TokenCreate extends AbstractTokenUpdate
 }
 
 
-
-}
-
-

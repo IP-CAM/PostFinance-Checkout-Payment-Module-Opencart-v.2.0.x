@@ -266,6 +266,3 @@ class ConditionTypeService {
 	}
 
 }
-}
-
-}

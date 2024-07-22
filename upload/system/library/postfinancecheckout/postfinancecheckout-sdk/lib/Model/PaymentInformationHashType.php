@@ -328,7 +328,3 @@ class PaymentInformationHashType implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

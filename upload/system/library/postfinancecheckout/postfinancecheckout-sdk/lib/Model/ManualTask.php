@@ -584,7 +584,3 @@ class ManualTask implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

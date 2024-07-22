@@ -982,6 +982,3 @@ class RefundService {
 	}
 
 }
-}
-
-}

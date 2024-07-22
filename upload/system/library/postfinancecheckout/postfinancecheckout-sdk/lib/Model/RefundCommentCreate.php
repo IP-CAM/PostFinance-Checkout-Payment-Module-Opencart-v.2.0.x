@@ -293,7 +293,3 @@ class RefundCommentCreate extends AbstractRefundCommentActive
 }
 
 
-
-}
-
-

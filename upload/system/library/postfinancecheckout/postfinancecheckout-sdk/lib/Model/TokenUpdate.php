@@ -328,7 +328,3 @@ class TokenUpdate extends AbstractTokenUpdate
 }
 
 
-
-}
-
-

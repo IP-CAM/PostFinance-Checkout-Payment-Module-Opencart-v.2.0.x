@@ -592,7 +592,3 @@ class TransactionComment implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

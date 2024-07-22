@@ -1024,7 +1024,3 @@ class CustomerPostalAddress implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

@@ -784,7 +784,3 @@ class PaymentTerminalAddress implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

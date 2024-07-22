@@ -632,6 +632,3 @@ class TransactionVoidService {
 	}
 
 }
-}
-
-}

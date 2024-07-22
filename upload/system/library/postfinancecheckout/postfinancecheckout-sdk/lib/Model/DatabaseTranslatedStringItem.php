@@ -368,7 +368,3 @@ class DatabaseTranslatedStringItem implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

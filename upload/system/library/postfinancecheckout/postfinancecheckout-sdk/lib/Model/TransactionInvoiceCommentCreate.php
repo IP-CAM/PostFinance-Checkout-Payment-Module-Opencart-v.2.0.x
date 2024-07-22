@@ -293,7 +293,3 @@ class TransactionInvoiceCommentCreate extends AbstractTransactionInvoiceCommentA
 }
 
 
-
-}
-
-

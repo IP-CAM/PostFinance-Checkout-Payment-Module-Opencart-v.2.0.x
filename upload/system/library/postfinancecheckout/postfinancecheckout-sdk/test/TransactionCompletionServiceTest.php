@@ -234,5 +234,3 @@ class TransactionCompletionServiceTest extends TestCase
     {
     }
 }
- }
-}

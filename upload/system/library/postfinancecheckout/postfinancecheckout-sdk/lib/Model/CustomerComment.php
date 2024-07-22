@@ -592,7 +592,3 @@ class CustomerComment implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

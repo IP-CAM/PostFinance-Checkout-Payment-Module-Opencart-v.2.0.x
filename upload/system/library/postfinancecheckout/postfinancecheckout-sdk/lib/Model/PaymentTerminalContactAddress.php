@@ -386,7 +386,3 @@ class PaymentTerminalContactAddress extends PaymentTerminalAddress
 }
 
 
-
-}
-
-

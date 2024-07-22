@@ -560,7 +560,3 @@ class PaymentTerminalLocation implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

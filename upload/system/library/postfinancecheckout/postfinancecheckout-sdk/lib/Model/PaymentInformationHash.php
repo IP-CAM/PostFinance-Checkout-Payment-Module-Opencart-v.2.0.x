@@ -360,7 +360,3 @@ class PaymentInformationHash implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

@@ -610,7 +610,3 @@ class ChargeFlowLevel extends TransactionAwareEntity
 }
 
 
-
-}
-
-

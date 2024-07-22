@@ -811,6 +811,3 @@ class HumanUserService {
 	}
 
 }
-}
-
-}

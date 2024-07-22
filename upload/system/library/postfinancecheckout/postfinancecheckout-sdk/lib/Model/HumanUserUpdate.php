@@ -328,7 +328,3 @@ class HumanUserUpdate extends AbstractHumanUserUpdate
 }
 
 
-
-}
-
-

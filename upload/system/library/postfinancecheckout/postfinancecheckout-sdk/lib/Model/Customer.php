@@ -648,7 +648,3 @@ class Customer implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

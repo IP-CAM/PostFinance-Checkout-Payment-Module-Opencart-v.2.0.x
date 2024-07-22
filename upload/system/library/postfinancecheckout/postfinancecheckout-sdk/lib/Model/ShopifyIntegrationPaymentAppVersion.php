@@ -50,7 +50,3 @@ class ShopifyIntegrationPaymentAppVersion
 }
 
 
-
-}
-
-

@@ -933,7 +933,3 @@ class AbstractTransactionPending implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

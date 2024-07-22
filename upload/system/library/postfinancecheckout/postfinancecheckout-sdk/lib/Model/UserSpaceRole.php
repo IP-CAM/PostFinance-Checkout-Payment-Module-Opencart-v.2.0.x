@@ -424,7 +424,3 @@ class UserSpaceRole implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

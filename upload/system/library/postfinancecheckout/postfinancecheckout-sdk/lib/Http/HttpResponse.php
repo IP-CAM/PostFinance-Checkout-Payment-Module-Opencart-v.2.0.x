@@ -172,6 +172,4 @@ final class HttpResponse {
 		$this->statusCode = (int)$result[2];
 	}
 
-}	}
-
 }

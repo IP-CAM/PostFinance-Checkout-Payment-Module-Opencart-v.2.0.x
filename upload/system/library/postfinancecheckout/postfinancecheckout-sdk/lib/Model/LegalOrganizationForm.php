@@ -424,7 +424,3 @@ class LegalOrganizationForm implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

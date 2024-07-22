@@ -485,7 +485,3 @@ class TransactionInvoiceReplacement implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

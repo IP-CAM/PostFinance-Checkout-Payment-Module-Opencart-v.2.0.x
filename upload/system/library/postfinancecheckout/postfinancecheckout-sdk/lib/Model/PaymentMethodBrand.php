@@ -456,7 +456,3 @@ class PaymentMethodBrand implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

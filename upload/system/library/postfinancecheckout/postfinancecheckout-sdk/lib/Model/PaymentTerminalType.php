@@ -360,7 +360,3 @@ class PaymentTerminalType implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

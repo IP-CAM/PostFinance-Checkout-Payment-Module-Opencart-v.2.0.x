@@ -434,6 +434,3 @@ final class SocketHttpClient implements IHttpClient {
 	}
 
 }
-}
-
-}

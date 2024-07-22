@@ -263,7 +263,3 @@ class WebhookUrlCreate extends AbstractWebhookUrlUpdate
 }
 
 
-
-}
-
-

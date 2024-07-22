@@ -1066,7 +1066,3 @@ class ChargeAttempt extends TransactionAwareEntity
 }
 
 
-
-}
-
-

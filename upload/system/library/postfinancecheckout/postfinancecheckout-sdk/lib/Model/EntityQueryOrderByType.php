@@ -52,7 +52,3 @@ class EntityQueryOrderByType
 }
 
 
-
-}
-
-

@@ -328,7 +328,3 @@ class CustomerAddressActive extends AbstractCustomerAddressActive
 }
 
 
-
-}
-
-

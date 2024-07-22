@@ -520,7 +520,3 @@ class ChargeFlow implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

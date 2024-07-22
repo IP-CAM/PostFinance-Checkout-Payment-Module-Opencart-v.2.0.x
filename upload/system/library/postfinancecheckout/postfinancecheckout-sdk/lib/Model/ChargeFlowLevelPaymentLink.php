@@ -354,7 +354,3 @@ class ChargeFlowLevelPaymentLink extends TransactionAwareEntity
 }
 
 
-
-}
-
-

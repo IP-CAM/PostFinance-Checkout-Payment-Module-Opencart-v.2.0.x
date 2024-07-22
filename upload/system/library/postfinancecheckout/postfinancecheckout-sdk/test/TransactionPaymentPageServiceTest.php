@@ -152,5 +152,3 @@ class TransactionPaymentPageServiceTest extends TestCase
         $this->assertEquals(0, strpos($paymentPageUrl, 'http'));
     }
 }
- }
-}

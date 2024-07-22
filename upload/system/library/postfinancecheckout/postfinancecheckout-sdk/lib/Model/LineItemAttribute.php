@@ -344,7 +344,3 @@ class LineItemAttribute implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

@@ -488,7 +488,3 @@ class PaymentMethod implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

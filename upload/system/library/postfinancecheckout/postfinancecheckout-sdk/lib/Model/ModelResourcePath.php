@@ -503,7 +503,3 @@ class ModelResourcePath implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

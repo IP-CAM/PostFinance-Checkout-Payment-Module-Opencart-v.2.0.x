@@ -953,7 +953,3 @@ class TransactionInvoice extends TransactionAwareEntity
 }
 
 
-
-}
-
-

@@ -509,6 +509,3 @@ class ObjectSerializer
     }
 
 }
-}
-
-}

@@ -52,7 +52,3 @@ class ChargeAttemptEnvironment
 }
 
 
-
-}
-
-

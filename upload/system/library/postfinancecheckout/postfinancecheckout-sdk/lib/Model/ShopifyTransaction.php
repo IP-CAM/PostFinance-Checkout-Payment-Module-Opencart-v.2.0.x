@@ -578,7 +578,3 @@ class ShopifyTransaction extends TransactionAwareEntity
 }
 
 
-
-}
-
-

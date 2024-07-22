@@ -519,6 +519,3 @@ class ChargeFlowLevelService {
 	}
 
 }
-}
-
-}

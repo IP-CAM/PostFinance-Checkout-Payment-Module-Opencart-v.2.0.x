@@ -985,6 +985,3 @@ class CustomerCommentService {
 	}
 
 }
-}
-
-}

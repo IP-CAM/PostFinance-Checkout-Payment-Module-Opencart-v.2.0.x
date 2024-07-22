@@ -328,7 +328,3 @@ class DocumentTemplateTypeGroup implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

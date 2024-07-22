@@ -360,7 +360,3 @@ class RestCurrency implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

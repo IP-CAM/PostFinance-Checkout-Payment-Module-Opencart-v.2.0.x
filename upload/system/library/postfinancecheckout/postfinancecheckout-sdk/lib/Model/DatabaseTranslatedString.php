@@ -360,7 +360,3 @@ class DatabaseTranslatedString implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

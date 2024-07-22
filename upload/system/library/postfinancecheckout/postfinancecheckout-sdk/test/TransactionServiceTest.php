@@ -417,6 +417,3 @@ class TransactionServiceTest extends TestCase
     }
 }
 
-}
-}
-

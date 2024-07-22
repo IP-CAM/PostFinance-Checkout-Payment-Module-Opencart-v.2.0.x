@@ -290,7 +290,3 @@ class PaymentLinkActive extends PaymentLinkUpdate
 }
 
 
-
-}
-
-

@@ -328,7 +328,3 @@ class WebhookListenerUpdate extends AbstractWebhookListenerUpdate
 }
 
 
-
-}
-
-

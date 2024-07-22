@@ -153,5 +153,3 @@ class TransactionLightboxServiceTest extends TestCase
         $this->assertEquals(0, strpos($javascriptUrl, 'http'));
     }
 }
- }
-}

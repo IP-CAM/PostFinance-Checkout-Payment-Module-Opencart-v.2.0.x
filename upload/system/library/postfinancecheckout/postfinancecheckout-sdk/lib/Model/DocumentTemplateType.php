@@ -424,7 +424,3 @@ class DocumentTemplateType implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

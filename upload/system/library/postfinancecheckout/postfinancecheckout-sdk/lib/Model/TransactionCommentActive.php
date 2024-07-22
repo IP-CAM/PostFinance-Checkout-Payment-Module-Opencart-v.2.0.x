@@ -328,7 +328,3 @@ class TransactionCommentActive extends AbstractTransactionCommentActive
 }
 
 
-
-}
-
-

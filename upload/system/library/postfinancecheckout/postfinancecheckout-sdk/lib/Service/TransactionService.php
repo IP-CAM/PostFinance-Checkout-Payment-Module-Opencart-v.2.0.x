@@ -2231,6 +2231,3 @@ class TransactionService {
 	}
 
 }
-}
-
-}

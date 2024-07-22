@@ -520,7 +520,3 @@ class LabelDescriptor implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

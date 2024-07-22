@@ -360,7 +360,3 @@ class PaymentConnectorFeature implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

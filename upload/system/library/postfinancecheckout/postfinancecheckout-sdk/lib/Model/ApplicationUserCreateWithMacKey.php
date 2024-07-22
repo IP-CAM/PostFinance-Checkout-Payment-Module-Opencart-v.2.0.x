@@ -290,7 +290,3 @@ class ApplicationUserCreateWithMacKey extends ApplicationUser
 }
 
 
-
-}
-
-

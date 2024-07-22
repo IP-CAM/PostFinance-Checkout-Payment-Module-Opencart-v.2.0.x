@@ -584,7 +584,3 @@ class Permission implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

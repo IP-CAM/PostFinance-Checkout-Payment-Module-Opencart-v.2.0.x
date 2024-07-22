@@ -471,7 +471,3 @@ class AbstractTokenUpdate implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

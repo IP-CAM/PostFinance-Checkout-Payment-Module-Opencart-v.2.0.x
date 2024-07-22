@@ -360,7 +360,3 @@ class TransactionAwareEntity implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

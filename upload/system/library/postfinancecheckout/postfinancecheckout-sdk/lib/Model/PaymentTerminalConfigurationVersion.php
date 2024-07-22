@@ -680,7 +680,3 @@ class PaymentTerminalConfigurationVersion implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

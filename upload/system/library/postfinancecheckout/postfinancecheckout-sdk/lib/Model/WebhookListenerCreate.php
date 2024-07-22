@@ -360,7 +360,3 @@ class WebhookListenerCreate extends AbstractWebhookListenerUpdate
 }
 
 
-
-}
-
-

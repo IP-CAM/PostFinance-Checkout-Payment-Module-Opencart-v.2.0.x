@@ -328,7 +328,3 @@ class AccountUpdate extends AbstractAccountUpdate
 }
 
 
-
-}
-
-

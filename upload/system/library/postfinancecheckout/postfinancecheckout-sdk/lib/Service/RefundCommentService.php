@@ -870,6 +870,3 @@ class RefundCommentService {
 	}
 
 }
-}
-
-}

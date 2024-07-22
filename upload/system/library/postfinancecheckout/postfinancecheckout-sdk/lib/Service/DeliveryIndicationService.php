@@ -636,6 +636,3 @@ class DeliveryIndicationService {
 	}
 
 }
-}
-
-}

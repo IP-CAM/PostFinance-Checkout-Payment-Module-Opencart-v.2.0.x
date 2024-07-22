@@ -862,6 +862,3 @@ class TransactionCompletionService {
 	}
 
 }
-}
-
-}

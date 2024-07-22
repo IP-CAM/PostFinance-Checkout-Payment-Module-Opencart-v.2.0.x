@@ -328,7 +328,3 @@ class TransactionInvoiceCommentActive extends AbstractTransactionInvoiceCommentA
 }
 
 
-
-}
-
-

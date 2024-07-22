@@ -62,6 +62,4 @@ interface IHttpClient {
 	 */
 	public function send(ApiClient $apiClient, HttpRequest $request);
 
-});
-
 }

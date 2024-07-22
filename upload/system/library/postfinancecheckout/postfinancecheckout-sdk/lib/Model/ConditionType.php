@@ -360,7 +360,3 @@ class ConditionType implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

@@ -456,7 +456,3 @@ class SalesChannel implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

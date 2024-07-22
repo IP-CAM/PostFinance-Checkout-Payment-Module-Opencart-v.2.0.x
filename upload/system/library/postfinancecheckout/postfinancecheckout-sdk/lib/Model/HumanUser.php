@@ -680,7 +680,3 @@ class HumanUser implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

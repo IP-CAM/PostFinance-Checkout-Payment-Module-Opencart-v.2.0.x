@@ -1177,7 +1177,3 @@ class TransactionCompletion extends TransactionAwareEntity
 }
 
 
-
-}
-
-

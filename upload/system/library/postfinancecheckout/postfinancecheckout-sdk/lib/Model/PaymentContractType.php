@@ -392,7 +392,3 @@ class PaymentContractType implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

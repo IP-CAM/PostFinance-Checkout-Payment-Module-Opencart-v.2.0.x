@@ -328,7 +328,3 @@ class CustomerCommentActive extends AbstractCustomerCommentActive
 }
 
 
-
-}
-
-

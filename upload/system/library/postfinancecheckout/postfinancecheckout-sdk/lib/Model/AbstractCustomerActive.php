@@ -519,7 +519,3 @@ class AbstractCustomerActive implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

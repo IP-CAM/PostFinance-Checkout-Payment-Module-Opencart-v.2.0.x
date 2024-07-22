@@ -91,6 +91,4 @@ class ApiResponse {
 		return $this->data;
 	}
 
-}	}
-
 }

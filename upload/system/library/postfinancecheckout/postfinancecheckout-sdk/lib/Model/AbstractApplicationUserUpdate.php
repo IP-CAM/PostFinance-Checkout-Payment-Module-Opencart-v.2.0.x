@@ -367,7 +367,3 @@ class AbstractApplicationUserUpdate implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

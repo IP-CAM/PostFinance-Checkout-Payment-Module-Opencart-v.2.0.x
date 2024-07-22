@@ -660,7 +660,3 @@ class TransactionCreate extends AbstractTransactionPending
 }
 
 
-
-}
-
-

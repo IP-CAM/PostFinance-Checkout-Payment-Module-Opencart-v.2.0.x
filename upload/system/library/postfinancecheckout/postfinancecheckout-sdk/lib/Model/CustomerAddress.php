@@ -520,7 +520,3 @@ class CustomerAddress implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

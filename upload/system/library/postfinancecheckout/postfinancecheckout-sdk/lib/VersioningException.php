@@ -36,6 +36,4 @@ class VersioningException extends Exception {
 		parent::__construct('A versioning/locking problem occurred during the API call to ' . $resourcePath . '.');
 	}
 
-}	}
-
 }

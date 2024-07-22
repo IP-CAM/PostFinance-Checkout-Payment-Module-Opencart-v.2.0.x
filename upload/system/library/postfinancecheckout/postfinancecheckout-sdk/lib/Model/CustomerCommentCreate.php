@@ -293,7 +293,3 @@ class CustomerCommentCreate extends AbstractCustomerCommentActive
 }
 
 
-
-}
-
-

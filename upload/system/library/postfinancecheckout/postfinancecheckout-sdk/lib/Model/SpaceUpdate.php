@@ -328,7 +328,3 @@ class SpaceUpdate extends AbstractSpaceUpdate
 }
 
 
-
-}
-
-

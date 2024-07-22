@@ -610,7 +610,3 @@ class TransactionLineItemVersion extends TransactionAwareEntity
 }
 
 
-
-}
-
-

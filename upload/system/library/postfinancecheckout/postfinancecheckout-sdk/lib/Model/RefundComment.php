@@ -592,7 +592,3 @@ class RefundComment implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

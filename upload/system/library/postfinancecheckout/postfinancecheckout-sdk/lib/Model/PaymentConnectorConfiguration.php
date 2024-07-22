@@ -720,7 +720,3 @@ class PaymentConnectorConfiguration implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

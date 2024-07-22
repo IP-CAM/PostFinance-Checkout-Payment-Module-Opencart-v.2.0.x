@@ -360,7 +360,3 @@ class LocalizedString implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

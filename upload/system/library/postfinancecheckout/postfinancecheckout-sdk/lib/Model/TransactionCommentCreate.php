@@ -293,7 +293,3 @@ class TransactionCommentCreate extends AbstractTransactionCommentActive
 }
 
 
-
-}
-
-

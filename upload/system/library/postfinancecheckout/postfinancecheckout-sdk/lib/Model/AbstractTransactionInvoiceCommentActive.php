@@ -303,7 +303,3 @@ class AbstractTransactionInvoiceCommentActive implements ModelInterface, ArrayAc
 }
 
 
-
-}
-
-

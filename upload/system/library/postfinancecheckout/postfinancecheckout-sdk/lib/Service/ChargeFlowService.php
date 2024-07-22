@@ -650,6 +650,3 @@ class ChargeFlowService {
 	}
 
 }
-}
-
-}

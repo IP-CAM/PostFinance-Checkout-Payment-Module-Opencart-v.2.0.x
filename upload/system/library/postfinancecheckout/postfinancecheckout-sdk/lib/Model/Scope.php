@@ -672,7 +672,3 @@ class Scope implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

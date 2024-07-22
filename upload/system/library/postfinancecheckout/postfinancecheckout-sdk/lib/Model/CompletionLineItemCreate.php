@@ -377,7 +377,3 @@ class CompletionLineItemCreate implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

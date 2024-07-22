@@ -872,6 +872,3 @@ class CustomerAddressService {
 	}
 
 }
-}
-
-}

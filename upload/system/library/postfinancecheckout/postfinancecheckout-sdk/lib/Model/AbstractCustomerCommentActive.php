@@ -303,7 +303,3 @@ class AbstractCustomerCommentActive implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

@@ -482,7 +482,3 @@ class ConnectorInvocation extends TransactionAwareEntity
 }
 
 
-
-}
-
-

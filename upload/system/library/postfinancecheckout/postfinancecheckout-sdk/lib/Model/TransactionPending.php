@@ -328,7 +328,3 @@ class TransactionPending extends AbstractTransactionPending
 }
 
 
-
-}
-
-

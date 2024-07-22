@@ -520,7 +520,3 @@ class Role implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

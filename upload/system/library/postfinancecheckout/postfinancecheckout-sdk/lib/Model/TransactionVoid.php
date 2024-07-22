@@ -802,7 +802,3 @@ class TransactionVoid extends TransactionAwareEntity
 }
 
 
-
-}
-
-

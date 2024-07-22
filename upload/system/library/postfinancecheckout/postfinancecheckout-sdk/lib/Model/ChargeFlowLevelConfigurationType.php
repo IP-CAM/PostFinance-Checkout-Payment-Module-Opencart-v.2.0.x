@@ -392,7 +392,3 @@ class ChargeFlowLevelConfigurationType implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

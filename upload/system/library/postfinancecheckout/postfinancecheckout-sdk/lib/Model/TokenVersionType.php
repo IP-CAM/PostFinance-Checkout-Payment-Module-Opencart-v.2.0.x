@@ -392,7 +392,3 @@ class TokenVersionType implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

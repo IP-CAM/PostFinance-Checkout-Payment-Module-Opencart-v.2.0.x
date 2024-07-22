@@ -328,7 +328,3 @@ class CustomerActive extends AbstractCustomerActive
 }
 
 
-
-}
-
-

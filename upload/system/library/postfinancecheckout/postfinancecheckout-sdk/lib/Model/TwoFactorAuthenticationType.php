@@ -424,7 +424,3 @@ class TwoFactorAuthenticationType implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

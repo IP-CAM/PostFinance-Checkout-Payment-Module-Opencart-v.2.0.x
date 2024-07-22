@@ -456,7 +456,3 @@ class User implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

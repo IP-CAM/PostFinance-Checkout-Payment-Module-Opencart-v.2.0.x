@@ -967,7 +967,3 @@ class LineItem implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

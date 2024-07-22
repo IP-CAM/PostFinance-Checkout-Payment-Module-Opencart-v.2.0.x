@@ -503,7 +503,3 @@ class SpaceView implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

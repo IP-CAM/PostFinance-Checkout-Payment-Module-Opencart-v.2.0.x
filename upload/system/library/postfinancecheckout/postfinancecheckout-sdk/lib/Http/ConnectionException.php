@@ -96,6 +96,3 @@ final class ConnectionException extends Exception {
 	}
 
 }
-}
-
-}

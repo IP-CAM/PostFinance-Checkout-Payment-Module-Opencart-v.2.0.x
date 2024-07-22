@@ -263,7 +263,3 @@ class CustomerCreate extends AbstractCustomerActive
 }
 
 
-
-}
-
-

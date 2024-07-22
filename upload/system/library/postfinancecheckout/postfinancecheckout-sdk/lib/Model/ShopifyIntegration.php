@@ -1056,7 +1056,3 @@ class ShopifyIntegration implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

@@ -293,7 +293,3 @@ class SpaceCreate extends AbstractSpaceUpdate
 }
 
 
-
-}
-
-

@@ -293,7 +293,3 @@ class ApplicationUserCreate extends AbstractApplicationUserUpdate
 }
 
 
-
-}
-
-

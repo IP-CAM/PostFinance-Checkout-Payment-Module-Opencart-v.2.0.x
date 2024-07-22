@@ -456,7 +456,3 @@ class TransactionCompletionRequest implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

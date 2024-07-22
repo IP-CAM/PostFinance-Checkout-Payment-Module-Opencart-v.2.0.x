@@ -759,6 +759,3 @@ class PaymentLinkService {
 	}
 
 }
-}
-
-}

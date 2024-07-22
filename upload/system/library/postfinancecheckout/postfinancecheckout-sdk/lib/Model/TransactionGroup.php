@@ -528,7 +528,3 @@ class TransactionGroup implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

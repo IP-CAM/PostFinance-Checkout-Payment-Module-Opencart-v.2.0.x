@@ -642,7 +642,3 @@ class DeliveryIndication extends TransactionAwareEntity
 }
 
 
-
-}
-
-

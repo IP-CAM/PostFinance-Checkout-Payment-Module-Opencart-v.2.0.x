@@ -496,7 +496,3 @@ class PaymentTerminalConfiguration implements ModelInterface, ArrayAccess
 }
 
 
-
-}
-
-

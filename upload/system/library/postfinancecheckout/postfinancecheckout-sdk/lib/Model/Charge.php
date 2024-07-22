@@ -674,7 +674,3 @@ class Charge extends TransactionAwareEntity
 }
 
 
-
-}
-
-

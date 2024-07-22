@@ -394,7 +394,3 @@ class ApplicationUser extends User
 }
 
 
-
-}
-
-
